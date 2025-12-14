@@ -1,0 +1,1 @@
+**Note**: This project was created for school requirements and will not be maintained or updated after submission. It is now archived and will not be actively developed. It is not intended for production use or commercial purposes.
